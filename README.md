@@ -93,3 +93,8 @@
     </LinearLayout>
 </LinearLayout>
 ```
+
+## 约束布局实现以下界面：
+![image](https://github.com/choujvzi/layout-test/blob/master/screenshots/%E7%BA%A6%E6%9D%9F%E5%B8%83%E5%B1%801%E5%9B%BE1.png)
+
+![image]()
