@@ -3,6 +3,7 @@
 ![image](https://github.com/choujvzi/layout-test/blob/master/screenshots/%E8%A1%A8%E6%A0%BC%E5%B8%83%E5%B1%80%E5%9B%BE1.png)
 
 ![image](https://github.com/choujvzi/layout-test/blob/master/screenshots/%E8%A1%A8%E6%A0%BC%E5%B8%83%E5%B1%80%E5%9B%BE2.png)
+
 ### 表格布局部分重要代码如下：
 ```java
 <?xml version="1.0" encoding="utf-8"?>
@@ -26,3 +27,6 @@
     </TableRow>
 </TableLayout>
 ```
+
+## 线性布局实现以下界面：
+![image](https://github.com/choujvzi/layout-test/blob/master/screenshots/%E7%BA%BF%E6%80%A7%E5%B8%83%E5%B1%80%E5%9B%BE1.png)
