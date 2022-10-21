@@ -91,12 +91,12 @@
 </LinearLayout>
 ```
 
-## 约束布局实现以下界面：
+## 约束布局1实现以下界面：
 ![image](https://github.com/choujvzi/layout-test/blob/master/screenshots/%E7%BA%A6%E6%9D%9F%E5%B8%83%E5%B1%801%E5%9B%BE1.png)
 
 ![image](https://github.com/choujvzi/layout-test/blob/master/screenshots/%E7%BA%A6%E6%9D%9F%E5%B8%83%E5%B1%801%E5%9B%BE2.png)
 
-### 约束布局部分重要代码如下：
+### 约束布局1部分重要代码如下：
 ```java
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -281,3 +281,8 @@
         app:layout_constraintTop_toBottomOf="@+id/button13" />
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
+
+## 约束布局2实现以下界面：
+![image](https://github.com/choujvzi/layout-test/blob/master/screenshots/%E7%BA%A6%E6%9D%9F%E5%B8%83%E5%B1%802%E5%9B%BE1.png)
+
+![image]()
